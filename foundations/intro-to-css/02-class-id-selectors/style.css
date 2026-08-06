@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.classnumber1,
+.coolestclass,
+.classnumber3 {
+    background-color: rgb(222, 114, 141);
+    font-family: Verdana, DejaVu_Sans, sans-serif;
+}
+#oneid {
+    color:blue;
+    font-size: 36px;
+}
+.coolestclass{
+    font-size: 24px;
+}
+#otherid{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
